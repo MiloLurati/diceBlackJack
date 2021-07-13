@@ -1,0 +1,2 @@
+How to run the application:
+To run the application you have to execute DiceBlackJack_GUI.m in Matlab's Command Window
